@@ -1,0 +1,3 @@
+[submodule "minnow"]
+	path = minnow
+	url = git@github.com:underthere/cs144-minnow.git
